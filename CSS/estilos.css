@@ -11,8 +11,9 @@ h1
 }
 img
 {
-  background-color: white;
+  background-color: black;
   width: auto;
   border-color: white;
-  
 }
+p
+ {background-color: red; margin: 20px; padding: 60px;}
