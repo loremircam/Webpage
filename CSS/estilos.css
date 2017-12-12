@@ -1,13 +1,15 @@
-body
-{
-  background-color: black;
-  font-family: verdana;
-  color: white;
+body {
+  width: 2000px;
+  height:500px;
+  background-color: #5b7989;
 
+  color: white;
+  text-align: left;
+  border-radius: 10px;
 }
 h1
 {
-  font-family: arial;
+  font-family: verdana;
 }
 img
 {
@@ -17,3 +19,6 @@ img
 }
 p
  {background-color: red; margin: 20px; padding: 60px;}
+.Comenzando{
+  text-shadow: 2px 2px 3px #02010a;
+}
